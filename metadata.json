@@ -1,0 +1,6 @@
+{
+  "name": "RS (Rakta Sewa)",
+  "description": "Emergency blood donation and matching platform connecting donors, patients, and hospitals in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
